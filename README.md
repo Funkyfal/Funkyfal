@@ -46,12 +46,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Funkyfal/Funkyfal/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">📍Location: Belarus, Minsk</h2>
 
 ###
