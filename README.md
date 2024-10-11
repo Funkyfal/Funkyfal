@@ -66,7 +66,7 @@
 
 ###
 
-<h3 align="left">✉️ Contacts</h3>
+<h2 align="left">✉️ Contacts</h2>
 
 ###
 
