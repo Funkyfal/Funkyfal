@@ -2,6 +2,34 @@
 
 ###
 
+<h2 align="left">📍Location: Belarus, Minsk</h2>
+
+###
+
+<h2 align="left">📚 Education</h2>
+
+###
+
+<p align="left">• 🏫 2022 - Present: Belarusian State University , Faculty of Applied Mathematics and Informatics <br>• 📗 2011 - 2022: Gymnasium 29</p>
+
+###
+
+<h2 align="left">👨🏻‍💻 Experience</h2>
+
+###
+
+<p align="left">• 💾 February - March, 2024: Java developer, Qulix Systems</p>
+
+###
+
+<h2 align="left">✉️ Contacts</h2>
+
+###
+
+<p align="left">• 📬 Email: bosko15082004@gmail.com<br>• 👾 Discrod: funkyfal</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Funkyfal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Funkyfal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -28,7 +56,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/6av1.gif"  />
+<img align="left" height="150" src="https://i.gifer.com/6av1.gif"  />
 
 ###
 
@@ -43,33 +71,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<h2 align="left">📍Location: Belarus, Minsk</h2>
-
-###
-
-<h2 align="left">📚 Education</h2>
-
-###
-
-<p align="left">• 🏫 2022 - Present: Belarusian State University , Faculty of Applied Mathematics and Informatics <br>• 📗 2011 - 2022: Gymnasium 29</p>
-
-###
-
-<h2 align="left">👨🏻‍💻 Experience</h2>
-
-###
-
-<p align="left">• 💾 February - March, 2024: Java developer, Qulix Systems</p>
-
-###
-
-<h2 align="left">✉️ Contacts</h2>
-
-###
-
-<p align="left">• 📬 Email: bosko15082004@gmail.com<br>• 👾 Discrod: funkyfal</p>
 
 ###
