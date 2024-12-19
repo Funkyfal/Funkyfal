@@ -1,39 +1,39 @@
-<h4 align="left">Hi 👋! I'm Anton</h4>
+<h2 align="left">Hi 👋! I'm Anton</h2>
 
 ###
 
-<h4 align="left">📍Location: Belarus, Minsk</h4>
+<h3 align="left">📍Location: Belarus, Minsk</h3>
 
 ###
 
-<h4 align="left">📚 Education</h4>
+<h3 align="left">📚 Education</h3>
 
 ###
 
-<h5 align="left">• 🏫 2022 - Present: Belarusian State University , Faculty of Applied Mathematics and Informatics <br>• 📗 2011 - 2022: Gymnasium 29</h5>
+<h4 align="left">• 🏫 2022 - Present: Belarusian State University , Faculty of Applied Mathematics and Informatics <br>• 📗 2011 - 2022: Gymnasium 29</h4>
 
 ###
 
-<h4 align="left">👨🏻‍💻 Experience</h4>
+<h3 align="left">👨🏻‍💻 Experience</h3>
 
 ###
 
-<h5 align="left">• 💾 February - March, 2024: Java developer, Qulix Systems</h5>
+<h4 align="left">• 💾 February - March, 2024: Java developer, Qulix Systems</h4>
 
 ###
 
-<h4 align="left">✉️ Contacts</h4>
+<h3 align="left">✉️ Contacts</h3>
 
 ###
 
-<h5 align="left">• 📬 Email: bosko15082004@gmail.com<br>• 👾 Discrod: funkyfal</h5>
+<h4 align="left">• 📬 Email: bosko15082004@gmail.com<br>• 👾 Discrod: funkyfal</h4>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Funkyfal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Funkyfal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Funkyfal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Funkyfal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Funkyfal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="130" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Funkyfal&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
 </div>
 
 ###
@@ -58,7 +58,7 @@
 
 ###
 
-<img align="left" height="300" src="https://i.gifer.com/6av1.gif"  />
+<img align="left" height="250" src="https://i.gifer.com/6av1.gif"  />
 
 ###
 
