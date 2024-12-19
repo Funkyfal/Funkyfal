@@ -1,32 +1,32 @@
-<h2 align="left">Hi 👋! I'm Anton</h2>
+<h4 align="left">Hi 👋! I'm Anton</h4>
 
 ###
 
-<h2 align="left">📍Location: Belarus, Minsk</h2>
+<h4 align="left">📍Location: Belarus, Minsk</h4>
 
 ###
 
-<h2 align="left">📚 Education</h2>
+<h4 align="left">📚 Education</h4>
 
 ###
 
-<p align="left">• 🏫 2022 - Present: Belarusian State University , Faculty of Applied Mathematics and Informatics <br>• 📗 2011 - 2022: Gymnasium 29</p>
+<h5 align="left">• 🏫 2022 - Present: Belarusian State University , Faculty of Applied Mathematics and Informatics <br>• 📗 2011 - 2022: Gymnasium 29</h5>
 
 ###
 
-<h2 align="left">👨🏻‍💻 Experience</h2>
+<h4 align="left">👨🏻‍💻 Experience</h4>
 
 ###
 
-<p align="left">• 💾 February - March, 2024: Java developer, Qulix Systems</p>
+<h5 align="left">• 💾 February - March, 2024: Java developer, Qulix Systems</h5>
 
 ###
 
-<h2 align="left">✉️ Contacts</h2>
+<h4 align="left">✉️ Contacts</h4>
 
 ###
 
-<p align="left">• 📬 Email: bosko15082004@gmail.com<br>• 👾 Discrod: funkyfal</p>
+<h5 align="left">• 📬 Email: bosko15082004@gmail.com<br>• 👾 Discrod: funkyfal</h5>
 
 ###
 
@@ -40,6 +40,8 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
   <img width="12" />
@@ -56,7 +58,7 @@
 
 ###
 
-<img align="left" height="150" src="https://i.gifer.com/6av1.gif"  />
+<img align="left" height="300" src="https://i.gifer.com/6av1.gif"  />
 
 ###
 
