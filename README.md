@@ -18,14 +18,6 @@
 
 ###
 
-<h3 align="left">👨🏻‍💻 Experience</h3>
-
-###
-
-<h4 align="left">• 💾 February - March, 2024: Java developer, Qulix Systems</h4>
-
-###
-
 <h3 align="left">✉️ Contacts</h3>
 
 ###
