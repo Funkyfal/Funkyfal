@@ -22,7 +22,7 @@
 
 ###
 
-<h4 align="left">• 📬 Email: bosko15082004@gmail.com<br>• 👾 Discrod: funkyfal</h4>
+<h4 align="left">• 📬 Email: bosko15082004@gmail.com<br>• 👾 Discord: funkyfal</h4>
 
 ###
 
